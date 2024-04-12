@@ -4,14 +4,6 @@ Welcome to the Community Repository for Code With Antonio! This platform is dedi
 
 If you find this repository helpful, please consider giving it a ⭐️!
 
-## 🚀 About Me
-
-I am a full-stack developer passionate about sharing knowledge and building an inclusive coding community.
-
-## 🙌 Contributing
-
-We encourage contributions from everyone. If you're looking to contribute, please refer to the `contributing.md` file for guidelines on how to get started. We appreciate your efforts to adhere to our `code of conduct` to maintain a respectful and collaborative environment.
-
 ## ⚙️ Environment Variables
 
 To ensure functionality in your local environment, you'll need to set up specific environment variables. Each tutorial folder includes a `.env.example` file, demonstrating the required format. Please rename this file to `.env` and update the variables accordingly:
