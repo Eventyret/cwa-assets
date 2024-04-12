@@ -1,0 +1,51 @@
+{
+  "name": "airbnb-clone-3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next-auth/prisma-adapter": "^1.0.5",
+    "@prisma/client": "^4.11.0",
+    "@types/node": "18.15.5",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "axios": "^1.3.4",
+    "bcrypt": "^5.1.0",
+    "date-fns": "^2.29.3",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "leaflet": "^1.9.3",
+    "next": "13.2.4",
+    "next-auth": "^4.20.1",
+    "next-cloudinary": "^4.0.1",
+    "next-superjson-plugin": "^0.5.6",
+    "query-string": "^8.1.0",
+    "react": "18.2.0",
+    "react-date-range": "^1.4.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.7",
+    "react-hot-toast": "^2.4.0",
+    "react-icons": "^4.8.0",
+    "react-leaflet": "^4.2.1",
+    "react-select": "^5.7.2",
+    "react-spinners": "^0.13.8",
+    "swr": "^2.1.1",
+    "typescript": "5.0.2",
+    "world-countries": "^4.0.0",
+    "zustand": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/leaflet": "^1.9.3",
+    "@types/react-date-range": "^1.4.4",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "prisma": "^4.11.0",
+    "tailwindcss": "^3.2.7"
+  }
+}
